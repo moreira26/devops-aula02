@@ -1,5 +1,6 @@
 # devops-aula02
 
 wagner moura
-will smith
+chesperito
 jim carry
+robert downey jr
