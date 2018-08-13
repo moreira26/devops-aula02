@@ -1,5 +1,5 @@
 # devops-aula02
 
-wagner moura
-will smith
-jim carry
+#wagner moura
+#will smith
+#jim carry
