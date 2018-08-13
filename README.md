@@ -1,6 +1,3 @@
-# devops-aula02
-
-wagner moura
-chesperito
-jim carry
-robert downey jr
+# take me to the hospital
+# ich tu dir weh
+# aviões do forró
